@@ -1,7 +1,11 @@
 # kmeans-Interactive-App-by-shiny
+
 #Shiny Interactive  kmeans  app 
-#DEMO 
+
+#DEMO webpage
+
 watch the demo from the http://shiny.rstudio.com/gallery/kmeans-example.html
+
 copy right for shiny.rstudio.com 
 
 #What is Shiny 
