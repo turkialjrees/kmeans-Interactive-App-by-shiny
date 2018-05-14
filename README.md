@@ -1,6 +1,10 @@
 # kmeans-Interactive-App-by-shiny
 #Shiny Interactive  kmeans  app 
+#DEMO 
+watch the demo from the http://shiny.rstudio.com/gallery/kmeans-example.html
+copy right for shiny.rstudio.com 
 
+#What is Shiny 
 Shiny is an R package that makes it easy to build interactive web apps straight from R
 
 This example will help  you to buit kmeans Shiny apps
